@@ -21,7 +21,9 @@ arrow_right.addEventListener("click", function() {
     }
     }, true);
 
-/* 
+    /* muller si estas leyendo esto, mandame un telegram jajaja*/
+
+/*
 arrow_left.addEventListener("click", function() {
     muller.style.right = centro;
     if (centro == -203) {
